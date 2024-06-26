@@ -137,3 +137,7 @@
   justify-content: space-between;
   color: white;
 }
+
+.recipes__iframe {
+  border-style: none;
+}
