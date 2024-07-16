@@ -27,3 +27,7 @@
   width: 105px;
   height: 39px;
 }
+
+.nav__link:hover {
+  color: #2f80ed;
+}
